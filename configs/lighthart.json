@@ -1,0 +1,28 @@
+{
+  "experiment": "lighthart",
+  "source_cell": 21,
+  "model": "lighthart",
+  "model_kwargs": {},
+  "epochs": 60,
+  "patience": 15,
+  "batch_size": 32,
+  "learning_rate": 0.0001,
+  "max_learning_rate": null,
+  "weight_decay": 0.003,
+  "loss": "focal",
+  "scheduler": "cosine",
+  "selection_metric": "accuracy",
+  "threshold_grid": [
+    0.3,
+    0.81,
+    0.02
+  ],
+  "pos_weight": 2.0,
+  "focal_alpha": 0.8,
+  "focal_gamma": 1.5,
+  "label_smoothing": 0.0,
+  "seed": 42,
+  "seed_status": "present in source",
+  "drop_last": true,
+  "external_augmentation": null
+}

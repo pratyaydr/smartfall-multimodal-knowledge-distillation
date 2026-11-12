@@ -1,0 +1,80 @@
+[
+  {
+    "experiment": "it_student",
+    "name": "IT student",
+    "source_cell": 8,
+    "execution_count": 6,
+    "status": "recorded_not_reproduced",
+    "accuracy": 0.8674,
+    "precision": 0.7053,
+    "recall": 0.8576,
+    "f1": 0.774,
+    "auc": 0.9472,
+    "threshold": 0.38
+  },
+  {
+    "experiment": "teacher",
+    "name": "Multimodal teacher",
+    "source_cell": 10,
+    "execution_count": 7,
+    "status": "recorded_not_reproduced",
+    "accuracy": 0.9596,
+    "precision": 0.8925,
+    "recall": 0.9633,
+    "f1": 0.9266,
+    "auc": 0.9931,
+    "threshold": 0.3
+  },
+  {
+    "experiment": "it_kd",
+    "name": "IT student + KD",
+    "source_cell": 12,
+    "execution_count": 8,
+    "status": "recorded_not_reproduced",
+    "accuracy": 0.89,
+    "precision": 0.7564,
+    "recall": 0.862,
+    "f1": 0.8058,
+    "auc": 0.9559,
+    "threshold": 0.44
+  },
+  {
+    "experiment": "lighthart",
+    "name": "LightHART",
+    "source_cell": 21,
+    "execution_count": 9,
+    "status": "recorded_not_reproduced",
+    "accuracy": 0.897,
+    "precision": 0.7751,
+    "recall": 0.8605,
+    "f1": 0.8156,
+    "auc": 0.9556,
+    "threshold": 0.44
+  },
+  {
+    "experiment": "shared_teacher",
+    "name": "Shared-CNN teacher",
+    "source_cell": 22,
+    "execution_count": 10,
+    "status": "recorded_not_reproduced",
+    "accuracy": 0.9491,
+    "precision": 0.8526,
+    "recall": 0.9765,
+    "f1": 0.9103,
+    "auc": 0.9926,
+    "threshold": 0.36
+  },
+  {
+    "experiment": "lighthart_kd",
+    "name": "LightHART + KD",
+    "source_cell": 24,
+    "execution_count": 12,
+    "status": "recorded_not_reproduced",
+    "accuracy": 0.8729,
+    "precision": 0.7082,
+    "recall": 0.884,
+    "f1": 0.7864,
+    "auc": 0.9493,
+    "threshold": 0.5
+  }
+]

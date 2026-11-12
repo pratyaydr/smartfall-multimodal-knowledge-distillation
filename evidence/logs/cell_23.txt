@@ -1,0 +1,9 @@
+============================================================
+KD SANITY CHECK
+============================================================
+Teacher logits : torch.Size([32, 1])
+Teacher feat   : torch.Size([32, 128])
+Student logits : torch.Size([32, 1])
+Student feat   : torch.Size([32, 128])
+Raw features   : torch.Size([32, 256])
+============================================================

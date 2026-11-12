@@ -1,0 +1,16 @@
+# Exact direct versions used for local CPU validation; not the original Kaggle environment.
+# Install PyTorch CPU wheel first, then: python -m pip install -r requirements-tested.txt
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+scikit-learn==1.8.0
+torch==2.15.0
+fastdtw==0.3.4
+matplotlib==3.10.8
+pytest==9.2.0
+ruff==0.17.4
+nbformat==5.11.1
+nbclient==0.11.0
+nbconvert==7.17.2
+ipykernel==7.4.0
+-e .

@@ -1,0 +1,38 @@
+{
+  "scope": "synthetic CPU validation only",
+  "csv_preprocessing": "passed",
+  "six_training_runs": {
+    "it_student": {
+      "status": "passed",
+      "test_samples": 4,
+      "finite_loss": true
+    },
+    "teacher": {
+      "status": "passed",
+      "test_samples": 4,
+      "finite_loss": true
+    },
+    "it_kd": {
+      "status": "passed",
+      "test_samples": 4,
+      "finite_loss": true
+    },
+    "lighthart": {
+      "status": "passed",
+      "test_samples": 4,
+      "finite_loss": true
+    },
+    "shared_teacher": {
+      "status": "passed",
+      "test_samples": 4,
+      "finite_loss": true
+    },
+    "lighthart_kd": {
+      "status": "passed",
+      "test_samples": 4,
+      "finite_loss": true
+    }
+  },
+  "checkpoint_reevaluation": "exact metric equality",
+  "accelerometer_only_prediction": "3 windows passed"
+}

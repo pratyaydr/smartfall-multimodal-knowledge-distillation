@@ -1,0 +1,159 @@
+{
+  "notebook": "notebooks/original_kaggle.ipynb",
+  "sha256": "543554703565c481163dee61947675edb7cd57533a66e3dea5a56a29c0d2234e",
+  "cell_indexing": "zero-based",
+  "source_cells": 39,
+  "execution_status": "Stopped at cell 28: missing tensorflow_addons; later cells unexecuted",
+  "architectures": [
+    {
+      "module": "it",
+      "class": "DropPath",
+      "source_cell": 8,
+      "source_lines": [
+        39,
+        72
+      ],
+      "ast_sha256": "cc76371cea52f15d0c90959f3cb783aef8c0c597a5fe57741458bdd177eca34e"
+    },
+    {
+      "module": "it",
+      "class": "TemporalAttentionPooling",
+      "source_cell": 8,
+      "source_lines": [
+        78,
+        108
+      ],
+      "ast_sha256": "f93f3aac7538b8da1c69db5bcb21444e09607e018581b1b8da610d9205cfcda6"
+    },
+    {
+      "module": "it",
+      "class": "ITBlock",
+      "source_cell": 8,
+      "source_lines": [
+        114,
+        190
+      ],
+      "ast_sha256": "5462e79ef8af69414e96b38c08c830f09b7e27cdb26de6b9af02969f34596008"
+    },
+    {
+      "module": "it",
+      "class": "FinalITStudent",
+      "source_cell": 8,
+      "source_lines": [
+        196,
+        546
+      ],
+      "ast_sha256": "eb7f3fb0b791c72e0956064f40c9513dbe3872b266e510b84a7333bf84cf8435"
+    },
+    {
+      "module": "teacher",
+      "class": "SE",
+      "source_cell": 10,
+      "source_lines": [
+        195,
+        230
+      ],
+      "ast_sha256": "1682049edf2eb244d6ca9335387bea32e1c4758a3294b25a16848ec377e50a0d"
+    },
+    {
+      "module": "teacher",
+      "class": "MultiScaleSpatialConv",
+      "source_cell": 10,
+      "source_lines": [
+        236,
+        342
+      ],
+      "ast_sha256": "fc6c2479cceb31ba6ac67e071551f497c29823ec4b554c0ab7f734dc5c278382"
+    },
+    {
+      "module": "teacher",
+      "class": "CrossModalFusion",
+      "source_cell": 10,
+      "source_lines": [
+        348,
+        429
+      ],
+      "ast_sha256": "757ab73b96786de92508d4976ddfc13eca0a7195fd8f800d5bccfc31a7231cfd"
+    },
+    {
+      "module": "teacher",
+      "class": "FinalKDTeacher",
+      "source_cell": 10,
+      "source_lines": [
+        435,
+        886
+      ],
+      "ast_sha256": "0db5802361ca2b5a19445653968b2c23ed62ec4dd432a73de68201b8aa4e249c"
+    },
+    {
+      "module": "lighthart",
+      "class": "ResidualDWBlock",
+      "source_cell": 21,
+      "source_lines": [
+        149,
+        197
+      ],
+      "ast_sha256": "25bc5de6cf1bb5c764bee37e2e7488184f7f21af112a83db8f3b9219bd1f6b67"
+    },
+    {
+      "module": "lighthart",
+      "class": "TransformerBlock",
+      "source_cell": 21,
+      "source_lines": [
+        203,
+        281
+      ],
+      "ast_sha256": "2fec467faad5bb3b1ddd7cee06ddee0820d81f0c1bcbab383459a0f172dc766f"
+    },
+    {
+      "module": "lighthart",
+      "class": "LightHART",
+      "source_cell": 21,
+      "source_lines": [
+        287,
+        614
+      ],
+      "ast_sha256": "ac8fc1f1bf1caa089466953ae699e470d1213e92328d66d8e5935f5be2c62f67"
+    },
+    {
+      "module": "shared_teacher",
+      "class": "ITBlock",
+      "source_cell": 22,
+      "source_lines": [
+        364,
+        438
+      ],
+      "ast_sha256": "23ab82455130d9e5878275885c47d60e19630ea2484e677f6519449794cc5810"
+    },
+    {
+      "module": "shared_teacher",
+      "class": "CrossModalFusion",
+      "source_cell": 22,
+      "source_lines": [
+        444,
+        516
+      ],
+      "ast_sha256": "fd792bed4bdb23e2e246411aee4c3159f52fdf8860f12ed0c627213311e0fce2"
+    },
+    {
+      "module": "shared_teacher",
+      "class": "TemporalAttentionPooling",
+      "source_cell": 22,
+      "source_lines": [
+        522,
+        550
+      ],
+      "ast_sha256": "1cd6edb7fe3e078ab6d3fedfa1c3033e5b79d3bc2ac599547d9d287158dd741f"
+    },
+    {
+      "module": "shared_teacher",
+      "class": "SharedCNNTeacher",
+      "source_cell": 22,
+      "source_lines": [
+        556,
+        979
+      ],
+      "ast_sha256": "d467212529632ec96a8fe165069f3fdc0fc88c571936ced34939011a550c399a"
+    }
+  ]
+}

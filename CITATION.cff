@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or its documented workflow, please cite it as follows."
+title: "SmartFallMM: Multimodal Fall Detection and Knowledge Distillation"
+version: 0.1.0
+date-released: 2026-11-12
+authors:
+  - family-names: Dhar
+    given-names: Pratyay
+abstract: >-
+  Research software for examining SmartFallMM-based binary fall-detection
+  experiments with inertial Transformer students, multimodal teacher models,
+  and knowledge distillation. The repository preserves the original Kaggle
+  notebook and its recorded metrics while providing a portable PyTorch pipeline,
+  synthetic software checks, and an explicit scientific limitations audit.
+keywords:
+  - fall detection
+  - SmartFallMM
+  - multimodal learning
+  - knowledge distillation
+  - wearable sensors
+  - human activity recognition
+  - deep learning
+  - PyTorch

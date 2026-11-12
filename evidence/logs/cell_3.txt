@@ -1,0 +1,78 @@
+Skeleton Files Found: 2389
+
+Unique Groups: 464
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S48A02T05.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S50A01T03.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S50A01T02.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S50A02T04.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S50A02T05.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S50A05T02.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S50A06T01.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S50A10T05.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S50A11T01.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S50A11T05.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S50A11T03.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S50A12T03.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S50A13T04.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S51A13T02.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S52A03T01.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S52A05T04.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S52A05T05.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S52A05T03.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S54A10T02.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S56A10T02.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S58A09T05.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S60A02T02.csv
+No columns to parse from file
+[ERROR] /kaggle/input/datasets/pratyaydhar/smartfallmmdataset/SmartFallMM-Dataset-main/young/skeleton/S60A11T01.csv
+No columns to parse from file
+
+============================================================
+FINAL DATASET
+============================================================
+Valid Groups      : 460
+Total Windows     : 13077
+Accelerometer     : (13077, 64, 4)
+Skeleton          : (13077, 64, 32, 3)
+Labels            : (13077,)
+Subjects          : (13077,)
+Activities        : (13077,)
+============================================================
+
+✅ FINAL DATASET SAVED
+
+Saved To:
+/kaggle/working/smartfallmm_lighthart_final.npz
+
+Saved Keys:
+
+['accelerometer', 'skeleton', 'labels', 'subjects', 'activities']
+
+Saved Accelerometer Shape:
+(13077, 64, 4)
+
+Saved Skeleton Shape:
+(13077, 64, 32, 3)
+
+✅ PREPROCESSING COMPLETE

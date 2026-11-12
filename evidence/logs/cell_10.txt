@@ -1,0 +1,524 @@
+Using Device: cuda
+
+
+
+Best Threshold: 0.50
+Best Validation Accuracy: 0.9289
+
+======================================================================
+Teacher Epoch 1/50
+======================================================================
+VAL LOSS   : 0.8598
+VAL ACC    : 0.9289
+VAL PREC   : 0.9087
+VAL REC    : 0.8196
+VAL F1     : 0.8619
+VAL AUC    : 0.9690
+
+BEST TEACHER SAVED
+
+
+
+Best Threshold: 0.48
+Best Validation Accuracy: 0.9565
+
+======================================================================
+Teacher Epoch 2/50
+======================================================================
+VAL LOSS   : 0.7836
+VAL ACC    : 0.9565
+VAL PREC   : 0.9864
+VAL REC    : 0.8510
+VAL F1     : 0.9137
+VAL AUC    : 0.9749
+
+BEST TEACHER SAVED
+
+
+
+Best Threshold: 0.36
+Best Validation Accuracy: 0.9533
+
+======================================================================
+Teacher Epoch 3/50
+======================================================================
+VAL LOSS   : 0.6140
+VAL ACC    : 0.9533
+VAL PREC   : 0.9731
+VAL REC    : 0.8510
+VAL F1     : 0.9079
+VAL AUC    : 0.9602
+
+No improvement (1/12)
+
+
+
+Best Threshold: 0.44
+Best Validation Accuracy: 0.9565
+
+======================================================================
+Teacher Epoch 4/50
+======================================================================
+VAL LOSS   : 0.4181
+VAL ACC    : 0.9565
+VAL PREC   : 0.9735
+VAL REC    : 0.8627
+VAL F1     : 0.9148
+VAL AUC    : 0.9521
+
+No improvement (2/12)
+
+
+
+Best Threshold: 0.32
+Best Validation Accuracy: 0.9618
+
+======================================================================
+Teacher Epoch 5/50
+======================================================================
+VAL LOSS   : 0.3067
+VAL ACC    : 0.9618
+VAL PREC   : 1.0000
+VAL REC    : 0.8588
+VAL F1     : 0.9241
+VAL AUC    : 0.9658
+
+BEST TEACHER SAVED
+
+
+
+Best Threshold: 0.62
+Best Validation Accuracy: 0.9628
+
+======================================================================
+Teacher Epoch 6/50
+======================================================================
+VAL LOSS   : 0.2547
+VAL ACC    : 0.9628
+VAL PREC   : 0.9955
+VAL REC    : 0.8667
+VAL F1     : 0.9266
+VAL AUC    : 0.9749
+
+BEST TEACHER SAVED
+
+
+
+Best Threshold: 0.76
+Best Validation Accuracy: 0.9363
+
+======================================================================
+Teacher Epoch 7/50
+======================================================================
+VAL LOSS   : 0.3130
+VAL ACC    : 0.9363
+VAL PREC   : 0.8854
+VAL REC    : 0.8784
+VAL F1     : 0.8819
+VAL AUC    : 0.9772
+
+No improvement (1/12)
+
+
+
+Best Threshold: 0.54
+Best Validation Accuracy: 0.9586
+
+======================================================================
+Teacher Epoch 8/50
+======================================================================
+VAL LOSS   : 0.2315
+VAL ACC    : 0.9586
+VAL PREC   : 0.9909
+VAL REC    : 0.8549
+VAL F1     : 0.9179
+VAL AUC    : 0.9831
+
+No improvement (2/12)
+
+
+
+Best Threshold: 0.40
+Best Validation Accuracy: 0.9639
+
+======================================================================
+Teacher Epoch 9/50
+======================================================================
+VAL LOSS   : 0.2312
+VAL ACC    : 0.9639
+VAL PREC   : 1.0000
+VAL REC    : 0.8667
+VAL F1     : 0.9286
+VAL AUC    : 0.9796
+
+BEST TEACHER SAVED
+
+
+
+Best Threshold: 0.30
+Best Validation Accuracy: 0.9639
+
+======================================================================
+Teacher Epoch 10/50
+======================================================================
+VAL LOSS   : 0.2168
+VAL ACC    : 0.9639
+VAL PREC   : 0.9662
+VAL REC    : 0.8980
+VAL F1     : 0.9309
+VAL AUC    : 0.9765
+
+No improvement (1/12)
+
+
+
+Best Threshold: 0.38
+Best Validation Accuracy: 0.9660
+
+======================================================================
+Teacher Epoch 11/50
+======================================================================
+VAL LOSS   : 0.2135
+VAL ACC    : 0.9660
+VAL PREC   : 0.9912
+VAL REC    : 0.8824
+VAL F1     : 0.9336
+VAL AUC    : 0.9865
+
+BEST TEACHER SAVED
+
+
+
+Best Threshold: 0.78
+Best Validation Accuracy: 0.9416
+
+======================================================================
+Teacher Epoch 12/50
+======================================================================
+VAL LOSS   : 0.2842
+VAL ACC    : 0.9416
+VAL PREC   : 0.8937
+VAL REC    : 0.8902
+VAL F1     : 0.8919
+VAL AUC    : 0.9818
+
+No improvement (1/12)
+
+
+
+Best Threshold: 0.78
+Best Validation Accuracy: 0.9575
+
+======================================================================
+Teacher Epoch 13/50
+======================================================================
+VAL LOSS   : 0.2479
+VAL ACC    : 0.9575
+VAL PREC   : 0.9694
+VAL REC    : 0.8706
+VAL F1     : 0.9174
+VAL AUC    : 0.9432
+
+No improvement (2/12)
+
+
+
+Best Threshold: 0.78
+Best Validation Accuracy: 0.9299
+
+======================================================================
+Teacher Epoch 14/50
+======================================================================
+VAL LOSS   : 0.3221
+VAL ACC    : 0.9299
+VAL PREC   : 0.8339
+VAL REC    : 0.9255
+VAL F1     : 0.8773
+VAL AUC    : 0.9809
+
+No improvement (3/12)
+
+
+
+Best Threshold: 0.78
+Best Validation Accuracy: 0.9703
+
+======================================================================
+Teacher Epoch 15/50
+======================================================================
+VAL LOSS   : 0.1883
+VAL ACC    : 0.9703
+VAL PREC   : 0.9830
+VAL REC    : 0.9059
+VAL F1     : 0.9429
+VAL AUC    : 0.9913
+
+BEST TEACHER SAVED
+
+
+
+Best Threshold: 0.30
+Best Validation Accuracy: 0.9671
+
+======================================================================
+Teacher Epoch 16/50
+======================================================================
+VAL LOSS   : 0.2126
+VAL ACC    : 0.9671
+VAL PREC   : 0.9870
+VAL REC    : 0.8902
+VAL F1     : 0.9361
+VAL AUC    : 0.9873
+
+No improvement (1/12)
+
+
+
+Best Threshold: 0.80
+Best Validation Accuracy: 0.9650
+
+======================================================================
+Teacher Epoch 17/50
+======================================================================
+VAL LOSS   : 0.2189
+VAL ACC    : 0.9650
+VAL PREC   : 0.9955
+VAL REC    : 0.8745
+VAL F1     : 0.9311
+VAL AUC    : 0.9889
+
+No improvement (2/12)
+
+
+
+Best Threshold: 0.30
+Best Validation Accuracy: 0.9713
+
+======================================================================
+Teacher Epoch 18/50
+======================================================================
+VAL LOSS   : 0.1936
+VAL ACC    : 0.9713
+VAL PREC   : 0.9872
+VAL REC    : 0.9059
+VAL F1     : 0.9448
+VAL AUC    : 0.9910
+
+BEST TEACHER SAVED
+
+
+
+Best Threshold: 0.30
+Best Validation Accuracy: 0.9639
+
+======================================================================
+Teacher Epoch 19/50
+======================================================================
+VAL LOSS   : 0.2343
+VAL ACC    : 0.9639
+VAL PREC   : 0.9955
+VAL REC    : 0.8706
+VAL F1     : 0.9289
+VAL AUC    : 0.9809
+
+No improvement (1/12)
+
+
+
+Best Threshold: 0.76
+Best Validation Accuracy: 0.9512
+
+======================================================================
+Teacher Epoch 20/50
+======================================================================
+VAL LOSS   : 0.2717
+VAL ACC    : 0.9512
+VAL PREC   : 0.9953
+VAL REC    : 0.8235
+VAL F1     : 0.9013
+VAL AUC    : 0.9721
+
+No improvement (2/12)
+
+
+
+Best Threshold: 0.52
+Best Validation Accuracy: 0.9703
+
+======================================================================
+Teacher Epoch 21/50
+======================================================================
+VAL LOSS   : 0.1938
+VAL ACC    : 0.9703
+VAL PREC   : 0.9830
+VAL REC    : 0.9059
+VAL F1     : 0.9429
+VAL AUC    : 0.9838
+
+No improvement (3/12)
+
+
+
+Best Threshold: 0.80
+Best Validation Accuracy: 0.9575
+
+======================================================================
+Teacher Epoch 22/50
+======================================================================
+VAL LOSS   : 0.2407
+VAL ACC    : 0.9575
+VAL PREC   : 0.9498
+VAL REC    : 0.8902
+VAL F1     : 0.9190
+VAL AUC    : 0.9778
+
+No improvement (4/12)
+
+
+
+Best Threshold: 0.72
+Best Validation Accuracy: 0.9639
+
+======================================================================
+Teacher Epoch 23/50
+======================================================================
+VAL LOSS   : 0.2257
+VAL ACC    : 0.9639
+VAL PREC   : 0.9825
+VAL REC    : 0.8824
+VAL F1     : 0.9298
+VAL AUC    : 0.9877
+
+No improvement (5/12)
+
+
+
+Best Threshold: 0.68
+Best Validation Accuracy: 0.9533
+
+======================================================================
+Teacher Epoch 24/50
+======================================================================
+VAL LOSS   : 0.2447
+VAL ACC    : 0.9533
+VAL PREC   : 0.9042
+VAL REC    : 0.9255
+VAL F1     : 0.9147
+VAL AUC    : 0.9878
+
+No improvement (6/12)
+
+
+
+Best Threshold: 0.42
+Best Validation Accuracy: 0.9660
+
+======================================================================
+Teacher Epoch 25/50
+======================================================================
+VAL LOSS   : 0.2201
+VAL ACC    : 0.9660
+VAL PREC   : 0.9912
+VAL REC    : 0.8824
+VAL F1     : 0.9336
+VAL AUC    : 0.9841
+
+No improvement (7/12)
+
+
+
+Best Threshold: 0.48
+Best Validation Accuracy: 0.9597
+
+======================================================================
+Teacher Epoch 26/50
+======================================================================
+VAL LOSS   : 0.2237
+VAL ACC    : 0.9597
+VAL PREC   : 0.9578
+VAL REC    : 0.8902
+VAL F1     : 0.9228
+VAL AUC    : 0.9779
+
+No improvement (8/12)
+
+
+
+Best Threshold: 0.66
+Best Validation Accuracy: 0.9671
+
+======================================================================
+Teacher Epoch 27/50
+======================================================================
+VAL LOSS   : 0.2134
+VAL ACC    : 0.9671
+VAL PREC   : 0.9870
+VAL REC    : 0.8902
+VAL F1     : 0.9361
+VAL AUC    : 0.9750
+
+No improvement (9/12)
+
+
+
+Best Threshold: 0.30
+Best Validation Accuracy: 0.9650
+
+======================================================================
+Teacher Epoch 28/50
+======================================================================
+VAL LOSS   : 0.2328
+VAL ACC    : 0.9650
+VAL PREC   : 0.9868
+VAL REC    : 0.8824
+VAL F1     : 0.9317
+VAL AUC    : 0.9796
+
+No improvement (10/12)
+
+
+
+Best Threshold: 0.30
+Best Validation Accuracy: 0.9692
+
+======================================================================
+Teacher Epoch 29/50
+======================================================================
+VAL LOSS   : 0.2049
+VAL ACC    : 0.9692
+VAL PREC   : 0.9748
+VAL REC    : 0.9098
+VAL F1     : 0.9412
+VAL AUC    : 0.9625
+
+No improvement (11/12)
+
+
+
+Best Threshold: 0.34
+Best Validation Accuracy: 0.9671
+
+======================================================================
+Teacher Epoch 30/50
+======================================================================
+VAL LOSS   : 0.2140
+VAL ACC    : 0.9671
+VAL PREC   : 0.9912
+VAL REC    : 0.8863
+VAL F1     : 0.9358
+VAL AUC    : 0.9827
+
+No improvement (12/12)
+
+EARLY STOPPING
+
+======================================================================
+FINAL TEACHER RESULTS
+======================================================================
+Accuracy  : 0.9596
+Precision : 0.8925
+Recall    : 0.9633
+F1 Score  : 0.9266
+AUC       : 0.9931
+Threshold : 0.30
+======================================================================
